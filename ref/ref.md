@@ -15,6 +15,7 @@
 
 ## Vector DB/Index
 [Chroma DB indexes: Not exactly what you might expect](https://github.com/zylon-ai/private-gpt/discussions/563)  
+[Chroma Tutorial](https://www.datacamp.com/tutorial/chromadb-tutorial-step-by-step-guide)  
 
 
 
