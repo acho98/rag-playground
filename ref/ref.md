@@ -13,5 +13,8 @@
 ## Embedding
 [MTEB(Massive Text Embedding Benchmark) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)   
 
+## Vector DB/Index
+[Chroma DB indexes: Not exactly what you might expect](https://github.com/zylon-ai/private-gpt/discussions/563)  
+
 
 
