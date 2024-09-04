@@ -13,6 +13,10 @@
 ## Embedding
 [MTEB(Massive Text Embedding Benchmark) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)   
 [BGM M3: Good Performance Multi-Lingual Embedding Model](https://github.com/FlagOpen/FlagEmbedding)  
+[Use cases for embeddings](https://cookbook.openai.com/articles/text_comparison_examples)
+
+## Prompt Engineering
+
 
 ## Vector DB/Index
 [Chroma DB indexes: Not exactly what you might expect](https://github.com/zylon-ai/private-gpt/discussions/563)  
